@@ -1,4 +1,4 @@
-<script>
+<script lang="ts">
 	import { onMount } from "svelte";
 	import CreatePollForm from "./components/CreatePollForm.svelte";
 	import Footer from "./components/Footer.svelte";
